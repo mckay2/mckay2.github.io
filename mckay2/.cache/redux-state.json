@@ -289,8 +289,7 @@
         "start_url": "/",
         "background_color": "#663399",
         "theme_color": "#663399",
-        "display": "minimal-ui",
-        "icon": "src/images/gatsby-icon.png"
+        "display": "minimal-ui"
       },
       "nodeAPIs": [
         "onPostBootstrap"
@@ -359,7 +358,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "55d151aba6e5dc16e4b732c9b243463e",
+        "contentDigest": "bcbc271b982c35e921146b8dd8045fa2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -453,7 +452,7 @@
       "resolve": "/Users/michael/mckay2.github.io/mckay2",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "397211a1c5010516de3fb8c8bcb1be8a",
+      "version": "97a5cf45e81d71f36fe2394a1dd2aafb",
       "pluginOptions": {
         "plugins": []
       },
@@ -517,7 +516,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "60c4de19dbe7a20c62267d3e01934df6",
+        "contentDigest": "078f867b97962ca77300bd7ee66b8c17",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -625,12 +624,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-18T16:10:25.975Z",
+      "buildTime": "2018-09-18T16:44:45.767Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "544af58600f0947e108bd7726427c0f4",
+        "contentDigest": "25f3963adaee60e993065e33577237a5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -718,7 +717,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "3697f7c3673bb90aefad3d8ce3c7c73a"
+    "PLUGINS_HASH": "f98ccea7acc3344b99f0835c3a3c547d"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -730,19 +729,14 @@
   },
   "jsonDataPaths": {
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-layout-js": 755544856,
     "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-layout-jsx": 755544856,
     "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "sq--src-components-layout-jsx": 755544856
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/michael/mckay2.github.io/mckay2/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/michael/mckay2.github.io/mckay2/.cache/dev-404-page.js"
-    },
     "/Users/michael/mckay2.github.io/mckay2/src/pages/404.jsx": {
       "query": "",
       "componentPath": "/Users/michael/mckay2.github.io/mckay2/src/pages/404.jsx"
@@ -754,6 +748,10 @@
     "/Users/michael/mckay2.github.io/mckay2/src/pages/page-2.jsx": {
       "query": "",
       "componentPath": "/Users/michael/mckay2.github.io/mckay2/src/pages/page-2.jsx"
+    },
+    "/Users/michael/mckay2.github.io/mckay2/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/michael/mckay2.github.io/mckay2/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {
