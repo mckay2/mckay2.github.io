@@ -1,0 +1,13 @@
+#contact-table td {
+  vertical-align: top;
+  padding-right: 1em;
+}
+
+#michael-picture,
+#kinlochleven-picture {
+  height: 300px;
+}
+
+#ra-picture {
+  height: 100px;
+}
