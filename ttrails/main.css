@@ -1,0 +1,53 @@
+.header {
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.content {
+}
+
+.inner-content {
+  margin: 8px;
+}
+
+.photo-main {
+  background-image: url("ttrails-main.jpeg");
+  background-size: cover;
+  background-position: 50% 50%;
+  min-height: 300px;
+}
+
+.header-nav-items {
+  display: flex;
+}
+
+.header-nav {
+  margin: 0;
+  padding: 12px 12px 12px 24px;
+  color: white;
+  background-color: #156015;
+}
+
+.header-nav-item {
+  padding-right: 16px;
+  padding-top: 1.3em;
+}
+
+.header-nav-brand {
+  font-size: 1em;
+  line-height: 0;
+  padding-right: 24px;
+  font-family: "Patrick Hand", cursive;
+}
+
+/* https: ; //medium.freecodecamp.org/how-to-build-a-responsive-navbar-with-a-toggle-menu-using-flexbox-3438e1d08783
+*/
+
+@media only screen and (max-width: 599px) {
+  .header-nav-items {
+    flex-direction: column;
+  }
+}
