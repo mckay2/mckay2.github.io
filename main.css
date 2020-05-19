@@ -8,9 +8,20 @@ h1 {
 }
 
 #michael-picture {
-  height: 480px;
+  /* height: 400px; */
+  width: 100%;
 }
 
 #ra-picture {
-  height: 100px;
+  /* height: 100px; */
+  display: none;
+  width: 15%;
+}
+
+body {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 0 20px 0px 20px;
+
+  font-family: sans-serif;
 }
